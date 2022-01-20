@@ -1,1 +1,2 @@
-sssssss
+config:
+  info: configserver, version = 1
